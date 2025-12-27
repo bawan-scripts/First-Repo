@@ -1,4 +1,3 @@
-package SES3;
 
 import java.util.Scanner;
 
@@ -98,5 +97,6 @@ public class Insertion {
         validSize++;
 
     }
+
 
 }
